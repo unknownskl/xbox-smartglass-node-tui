@@ -1,0 +1,31 @@
+{
+  "name": "xbox-smartglass-node-tui",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unknownskl/xbox-smartglass-node-tui.git"
+  },
+  "bin": {
+    "xbox-tui": "./app.js"
+  },
+  "keywords": [
+    "xbox",
+    "xbox one",
+    "smartglass"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unknownskl/xbox-smartglass-node-tui/issues"
+  },
+  "homepage": "https://github.com/unknownskl/xbox-smartglass-node-tui#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "xbox-smartglass-core-node": "^0.3.0"
+  }
+}
