@@ -2,7 +2,7 @@
   "name": "xbox-smartglass-node-tui",
   "version": "0.1.0",
   "description": "",
-  "main": "app.js",
+  "main": "app/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/unknownskl/xbox-smartglass-node-tui.git"
   },
   "bin": {
-    "xbox-tui": "./app.js"
+    "xbox-tui": "./bin/app.js"
   },
   "keywords": [
     "xbox",
