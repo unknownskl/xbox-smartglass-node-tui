@@ -26,6 +26,6 @@
   "homepage": "https://github.com/unknownskl/xbox-smartglass-node-tui#readme",
   "dependencies": {
     "blessed": "^0.1.81",
-    "xbox-smartglass-core-node": "^0.3.0"
+    "xbox-smartglass-core-node": "^0.3.1"
   }
 }
